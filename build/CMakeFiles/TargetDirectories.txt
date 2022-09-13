@@ -1,0 +1,7 @@
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/install/strip.dir
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/install/local.dir
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/edit_cache.dir
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/install.dir
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/list_install_components.dir
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/rebuild_cache.dir
+/media/pk/HDD_DATA/Work/article_2022/geant-historm/build/CMakeFiles/execute.dir
